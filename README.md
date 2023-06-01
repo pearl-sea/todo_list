@@ -1,6 +1,5 @@
 # Todolist
 
-
 ![](https://file.notion.so/f/s/0c957599-9daa-4d30-b0f3-05adb3ccfab7/ezgif.com-video-to-gif.gif?id=20659484-53c9-42ba-b748-af16642e7994&table=block&spaceId=24772162-3f21-4880-8e53-7e74da5da6f7&expirationTimestamp=1685687357275&signature=oMqhii_7M9DH_zI-oVsGVhqGrjDIE-2o9ndey95z-fM)
 
 #### 소개
@@ -14,3 +13,6 @@ html, css, js로 간단한 투두리스트 구현
 * 리스트의 x 아이콘을 누르면 정말로 삭제할건지 묻는 경고창 출력, 예 / 아니오 따라 삭제 / 취소
 * 리스트의 체크박스를 누르면 추가된 할일 취소선 처리
 * 리스트의 할일을 모두 지울경우 내용이 없다는 메세지 출력
+
+#### 주소
+https://pearl-todo.netlify.app/
